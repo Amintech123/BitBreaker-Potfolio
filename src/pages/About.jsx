@@ -17,10 +17,9 @@ const About = () => {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
         >
-          I’m <span className="font-semibold text-blue-600 dark:text-blue-400">Cyberflex</span>,  
-          a full-stack developer and cybersecurity enthusiast.  
-          I love building secure applications and sharing my knowledge with others in the tech community.
-          My goal is to help others understand security from a developer’s perspective.
+          Short (concise)
+          I’m <span className="font-semibold text-blue-600 dark:text-blue-400">BitBreaker</span>, a cybersecurity student learning secure software development and hands‑on defensive/offensive techniques. 
+          I practice with CTFs and labs, build small projects that apply secure coding, and enjoy turning theory into practical, safe solutions.
         </motion.p>
 
         <motion.div

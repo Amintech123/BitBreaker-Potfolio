@@ -27,8 +27,9 @@ const Home = () => {
         animate={{ opacity: 1 }}
         transition={{ delay: 0.4, duration: 0.6 }}
       >
-        A passionate Cybersecurity Enthusiast & Full-Stack Developer.  
-        I love building secure, modern web applications and teaching others how to protect digital systems.
+        I'm a cybersecurity student and frontend developer focused on building secure web applications,
+        learning offensive security techniques, and applying best practices for threat mitigation.
+        Currently exploring web app pentesting, secure CI/CD, and cloud security.
       </motion.p>
 
       <motion.div
