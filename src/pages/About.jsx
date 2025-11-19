@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import SectionHeader from "../components/SectionHeader";
-import skills from "../data/skills";
+import skills from "../data/Skills";
 
 const About = () => {
   return (
