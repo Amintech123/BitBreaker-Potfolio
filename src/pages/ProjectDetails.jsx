@@ -1,6 +1,6 @@
 import { useParams, Link } from "react-router-dom";
 import SectionHeader from "../components/SectionHeader";
-import projects from "../data/projects";
+import projects from "../data/Projects";
 
 const ProjectDetails = () => {
   const { id } = useParams();
