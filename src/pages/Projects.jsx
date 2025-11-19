@@ -2,7 +2,7 @@ import { useState } from "react";
 import SectionHeader from "../components/SectionHeader";
 import ProjectCard from "../components/ProjectCard";
 import ProjectModal from "../components/ProjectModal";
-import projects from "../data/projects";
+import projects from "../data/Projects";
 
 const Projects = () => {
   const [selectedProject, setSelectedProject] = useState(null);
