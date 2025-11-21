@@ -6,7 +6,7 @@ const projects = [
   {
     id: 1,
     title: "Ip Checker",
-    image: "/src/assets/ip checker.PNG",
+    image: ipchecker,
     description:
       "A real-time attendance tracking system using QR codes and Firebase. Built with React, Vite, and Firestore for real-time updates.",
     tech: ["HTML",  "Phyton", "Css"],
@@ -16,7 +16,7 @@ const projects = [
   {
     id: 2,
     title: "Password Strength Checker",
-    image: "/src/assets/password strength.PNG",
+    image: passwordStrengthChecker,
     description:
       "An AI-powered landing page generator with one-click deployment and a drag-and-drop editor. Frontend-only project built with Next.js.",
     tech: ["React", "Tailwind CSS", "Vite"],
@@ -26,7 +26,7 @@ const projects = [
   {
     id: 3,
     title: "cybersecurity Dashboard",
-    image: "/src/assets/cyberdash.PNG",
+    image: cybersecurityDashboard,
     description:
       "A web app that summarizes and translates YouTube videos using AI. Ideal for quick learning and accessibility.",
     tech: ["React", "Lucide-icon", "Tailwind CSS", "Vite"],
@@ -46,7 +46,7 @@ const projects = [
   {
     id: 5,
     title: "BitBreaker Potfolio",
-    image: "/src/assets/potfolio.PNG",
+    image: portfolioimage1,
     description:
       "A digital financial toolkit including a budgeting Excel template and a visually designed PDF guide for smart financial planning.",
     tech: ["Canva", "Excel", "Marketing Strategy"],
