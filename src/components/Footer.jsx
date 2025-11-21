@@ -15,7 +15,7 @@ const Footer = () => {
         <span className="font-semibold text-blue-600 dark:text-blue-400">
           BitBreaker
         </span>
-        . Built with ❤ using React, TailwindCSS & Framer Motion.
+        . All Rights reserved.
       </p>
     </motion.footer>
   );

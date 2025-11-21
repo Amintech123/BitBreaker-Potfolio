@@ -1,32 +1,32 @@
 const projects = [
   {
     id: 1,
-    title: "QR Code Attendance System",
-    image: "/images/projects/qr-attendance.png",
+    title: "Ip Checker",
+    image: "/src/assets/ip checker.PNG",
     description:
       "A real-time attendance tracking system using QR codes and Firebase. Built with React, Vite, and Firestore for real-time updates.",
-    tech: ["React", "Firebase", "Tailwind CSS", "Vite"],
-    link: "https://cyberflex-attendance.vercel.app",
+    tech: ["HTML",  "Phyton", "Css"],
+    link: "https://ip-checker-sooty.vercel.app/",
     github: "https://github.com/Cyb3rflex/qr-attendance-system",
   },
   {
     id: 2,
-    title: "PagePilot AI",
-    image: "/images/projects/pagepilot.png",
+    title: "Password Strength Checker",
+    image: "/src/assets/password strength.PNG",
     description:
       "An AI-powered landing page generator with one-click deployment and a drag-and-drop editor. Frontend-only project built with Next.js.",
-    tech: ["Next.js", "Tailwind CSS", "OpenAI API"],
-    link: "https://pagepilot.vercel.app",
+    tech: ["React", "Tailwind CSS", "Vite"],
+    link: "https://password-strength-checker-red-eight.vercel.app/",
     github: "https://github.com/Cyb3rflex/pagepilot",
   },
   {
     id: 3,
-    title: "YouTube Summarizer & Translator",
-    image: "/images/projects/youtube-summarizer.png",
+    title: "cybersecurity Dashboard",
+    image: "/src/assets/cyberdash.PNG",
     description:
       "A web app that summarizes and translates YouTube videos using AI. Ideal for quick learning and accessibility.",
-    tech: ["React", "Rapid API", "Tailwind CSS"],
-    link: "https://yt-summary-ai.vercel.app",
+    tech: ["React", "Lucide-icon", "Tailwind CSS", "Vite"],
+    link: "https://cybersecurity-dashboard-c4lu.vercel.app/",
     github: "https://github.com/Cyb3rflex/youtube-summarizer",
   },
   {
@@ -41,8 +41,8 @@ const projects = [
   },
   {
     id: 5,
-    title: "The Ultimate Money-Saving Blueprint",
-    image: "/images/projects/money-blueprint.png",
+    title: "BitBreaker Potfolio",
+    image: "/src/assets/potfolio.PNG",
     description:
       "A digital financial toolkit including a budgeting Excel template and a visually designed PDF guide for smart financial planning.",
     tech: ["Canva", "Excel", "Marketing Strategy"],
