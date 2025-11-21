@@ -1,3 +1,7 @@
+import passwordStrengthChecker from "../assets/password strenght.PNG";
+import cybersecurityDashboard from "../assets/cyberdash.PNG";
+import portfolioimage1 from "../assets/potfolio.PNG";
+import ipchecker from "../assets/ip checker.PNG";
 const projects = [
   {
     id: 1,
