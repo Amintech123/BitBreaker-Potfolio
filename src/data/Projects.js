@@ -1,4 +1,4 @@
-import passwordStrengthChecker from "../assets/password strenght.PNG";
+import passwordStrengthChecker from "../assets/password strength.PNG";
 import cybersecurityDashboard from "../assets/cyberdash.PNG";
 import portfolioimage1 from "../assets/potfolio.PNG";
 import ipchecker from "../assets/ip checker.PNG";
