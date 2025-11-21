@@ -29,16 +29,16 @@ const projects = [
     link: "https://cybersecurity-dashboard-c4lu.vercel.app/",
     github: "https://github.com/Cyb3rflex/youtube-summarizer",
   },
-  {
-    id: 4,
-    title: "Pentest Lab Demo",
-    image: "/images/projects/pentest-lab.png",
-    description:
-      "A mini pentesting environment showcasing vulnerable and secure Node.js apps for ethical hacking exercises.",
-    tech: ["Node.js", "Express", "Docker"],
-    link: "https://github.com/Cyb3rflex/pentest-lab",
-    github: "https://github.com/Cyb3rflex/pentest-lab",
-  },
+  // {
+  //   id: 4,
+  //   title: "Pentest Lab Demo",
+  //   image: "/images/projects/pentest-lab.png",
+  //   description:
+  //     "A mini pentesting environment showcasing vulnerable and secure Node.js apps for ethical hacking exercises.",
+  //   tech: ["Node.js", "Express", "Docker"],
+  //   link: "https://github.com/Cyb3rflex/pentest-lab",
+  //   github: "https://github.com/Cyb3rflex/pentest-lab",
+  // },
   {
     id: 5,
     title: "BitBreaker Potfolio",
@@ -46,8 +46,8 @@ const projects = [
     description:
       "A digital financial toolkit including a budgeting Excel template and a visually designed PDF guide for smart financial planning.",
     tech: ["Canva", "Excel", "Marketing Strategy"],
-    link: "https://cyberflex-blueprint.vercel.app",
-    github: "https://github.com/Cyb3rflex/money-blueprint",
+    link: "https://bit-breaker-potfolio.vercel.app/",
+    github: "https://github.com/Amintech123/BitBreaker-Potfolio",
   },
 ];
 
