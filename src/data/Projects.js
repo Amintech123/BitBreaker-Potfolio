@@ -50,7 +50,7 @@ const projects = [
     description:
       "A digital financial toolkit including a budgeting Excel template and a visually designed PDF guide for smart financial planning.",
     tech: ["Canva", "Excel", "Marketing Strategy"],
-    link: "https://bit-breaker-potfolio.vercel.app/",
+    link: "https://bit-breaker-potfolio-xl48.vercel.app/",
     github: "https://github.com/Amintech123/BitBreaker-Potfolio",
   },
 ];
