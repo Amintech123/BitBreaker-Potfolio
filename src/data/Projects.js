@@ -8,30 +8,30 @@ const projects = [
     title: "Ip Checker",
     image: ipchecker,
     description:
-      "A real-time attendance tracking system using QR codes and Firebase. Built with React, Vite, and Firestore for real-time updates.",
+      "An IP Checker tool that allow users to lookup information about an IP address including its location ISP and others details.",
     tech: ["HTML",  "Phyton", "Css"],
     link: "https://ip-checker-sooty.vercel.app/",
-    github: "https://github.com/Cyb3rflex/qr-attendance-system",
+    github: "https://github.com/Amintech123/Ip-Checker.git",
   },
   {
     id: 2,
     title: "Password Strength Checker",
     image: passwordStrengthChecker,
     description:
-      "An AI-powered landing page generator with one-click deployment and a drag-and-drop editor. Frontend-only project built with Next.js.",
+      "A Password Strenght Checker System Built with React, Viteand Firestore for real-time updates.",
     tech: ["React", "Tailwind CSS", "Vite"],
     link: "https://password-strength-checker-red-eight.vercel.app/",
-    github: "https://github.com/Cyb3rflex/pagepilot",
+    github: "https://github.com/Amintech123/Password-Strength-Checker.git",
   },
   {
     id: 3,
     title: "cybersecurity Dashboard",
     image: cybersecurityDashboard,
     description:
-      "A web app that summarizes and translates YouTube videos using AI. Ideal for quick learning and accessibility.",
+      "A Cybersecurity Dashboard that list some tools used in cybersecurity with details.",
     tech: ["React", "Lucide-icon", "Tailwind CSS", "Vite"],
     link: "https://cybersecurity-dashboard-c4lu.vercel.app/",
-    github: "https://github.com/Cyb3rflex/youtube-summarizer",
+    github: "https://github.com/Amintech123/Cybersecurity-Dashboard.git",
   },
   // {
   //   id: 4,
@@ -48,10 +48,10 @@ const projects = [
     title: "BitBreaker Potfolio",
     image: portfolioimage1,
     description:
-      "A digital financial toolkit including a budgeting Excel template and a visually designed PDF guide for smart financial planning.",
-    tech: ["Canva", "Excel", "Marketing Strategy"],
+      "A cybersecurity Potfolio built with React, Vite and Tailwind CSS for responsive design .",
+    tech: ["React", "TailwindCSS", "Vite"],
     link: "https://bit-breaker-potfolio-xl48.vercel.app/",
-    github: "https://github.com/Amintech123/BitBreaker-Potfolio",
+    github: "https://github.com/Amintech123/BitBreaker-Potfolio.git",
   },
 ];
 
